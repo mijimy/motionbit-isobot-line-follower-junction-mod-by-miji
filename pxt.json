@@ -1,12 +1,13 @@
 {
-    "name": "MOTIONBIT ISOBOT LINE FOLLOWER (JUNCTION) mod by mihu",
+    "name": "MOTIONBIT ISOBOT LINE FOLLOWER (JUNCTION) mod by miji ping pong",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
         "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
-        "pxt-motionbit": "github:cytrontechnologies/pxt-motionbit#v1.2.0"
+        "pxt-motionbit": "github:cytrontechnologies/pxt-motionbit#v1.2.0",
+        "radio-broadcast": "*"
     },
     "files": [
         "main.blocks",
