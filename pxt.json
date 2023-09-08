@@ -1,5 +1,5 @@
 {
-    "name": "MOTIONBIT ISOBOT LINE FOLLOWER (JUNCTION) mod by mihu",
+    "name": "MOTIONBIT ISOBOT LINE FOLLOWER (JUNCTION) mod by miji",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -11,7 +11,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
